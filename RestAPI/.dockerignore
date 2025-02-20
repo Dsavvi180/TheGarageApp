@@ -1,0 +1,4 @@
+node_modules
+npm-debug.log
+sensitive.env
+.DS_Store
