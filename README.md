@@ -1,4 +1,5 @@
-# TheGarageApp - In Development
+# TheGarageApp 🚀 
+Continuous Development
 
 React Native and Expo App serving as a customer portal for a car servicing franchise in South Africa with roughly 10k annual customers. Has functionality for identity management, user profiles, bookings, service history and eventually driving analytics and service/ maintenance forecasting & predictions as well as depreciation analysis.
 
